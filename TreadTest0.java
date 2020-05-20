@@ -1,5 +1,7 @@
 package thread;
 
+//https://java.keicode.com/lang/multithreading-basic.php
+
 public class TreadTest0 {
 	public static void main(String[] args) {
 		System.out.println("Entering main" + Thread.currentThread().getId());
